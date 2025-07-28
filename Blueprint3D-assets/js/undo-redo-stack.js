@@ -75,4 +75,3 @@
   }
   return p;
 });
-//# sourceMappingURL=undo-redo-stack.min.js.map
